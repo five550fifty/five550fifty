@@ -1,34 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">Artem Bardyuk — Python and Web Development</title>
-  <desc id="desc">Dark graphite banner with lime accents, Artem's name and an abstract 550 monogram.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#172127"/>
-      <stop offset="1" stop-color="#0b1118"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
-    </pattern>
-    <clipPath id="clip"><rect width="1280" height="360" rx="24"/></clipPath>
-  </defs>
-  <g clip-path="url(#clip)">
-    <rect width="1280" height="360" fill="url(#bg)"/>
-    <rect width="1280" height="360" fill="url(#grid)"/>
-    <circle cx="1130" cy="175" r="224" fill="none" stroke="#c4f46d" stroke-opacity="0.13"/>
-    <circle cx="1130" cy="175" r="175" fill="none" stroke="#c4f46d" stroke-opacity="0.1"/>
-    <circle cx="1130" cy="175" r="126" fill="none" stroke="#c4f46d" stroke-opacity="0.08"/>
-    <path d="M888 297L1173 12M994 360L1278 76" stroke="#c4f46d" stroke-opacity="0.12"/>
-    <rect x="56" y="49" width="8" height="8" rx="2" fill="#c4f46d"/>
-    <text x="78" y="60" font-family="Consolas, monospace" font-size="16" letter-spacing="3" fill="#c4f46d">FIVE550FIFTY</text>
-    <text x="54" y="161" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2" fill="#f2f5f1">Artem Bardyuk</text>
-    <text x="58" y="211" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#b9c4cd">Python &amp; Web Development</text>
-    <path d="M58 259H711" stroke="#344047"/>
-    <text x="58" y="299" font-family="Consolas, monospace" font-size="17" fill="#9faeb8">Small ideas. Useful tools. Steady progress.</text>
-    <g transform="translate(902 104)">
-      <rect width="277" height="143" rx="20" fill="#10191e" stroke="#334137"/>
-      <text x="138" y="102" text-anchor="middle" font-family="Consolas, monospace" font-size="102" font-weight="700" letter-spacing="-8" fill="#c4f46d">550</text>
-    </g>
-    <path d="M1170 290H1202M1186 274V306" stroke="#c4f46d" stroke-width="2"/>
-    <rect x="0" y="355" width="1280" height="5" fill="#c4f46d"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450" role="img"><title>Artem Bardyuk — Python, web and desktop projects</title><defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ab91ff"/><stop offset=".55" stop-color="#827dff"/><stop offset="1" stop-color="#78edcc"/></linearGradient><radialGradient id="glow"><stop stop-color="#8370ef" stop-opacity=".3"/><stop offset="1" stop-color="#8370ef" stop-opacity="0"/></radialGradient><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#161525"/><stop offset="1" stop-color="#0b101a"/></linearGradient></defs>
+<rect width="900" height="450" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="898" height="448" rx="23" fill="none" stroke="#343047"/>
+<circle cx="700" cy="205" r="238" fill="url(#glow)"/>
+<path d="M530 0V450M0 363H900" stroke="#ffffff" stroke-opacity=".06"/>
+<text x="42" y="49" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#a99abe" letter-spacing="3">FIVE550FIFTY</text>
+<circle cx="830" cy="43" r="5" fill="#83e7cb"/>
+<text x="40" y="146" font-family="Arial,Helvetica,sans-serif" font-size="76" fill="#f7f5ff" font-weight="700" letter-spacing="-3">Artem</text>
+<text x="40" y="226" font-family="Arial,Helvetica,sans-serif" font-size="76" fill="#f7f5ff" font-weight="700" letter-spacing="-3">Bardyuk.</text>
+<text x="44" y="278" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#bbb8ce" >Turning ideas into useful tools.</text>
+<rect x="44" y="304" width="95" height="30" rx="15" fill="#a88cff" fill-opacity=".14"/>
+<text x="61" y="325" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#c5b6ff" font-weight="700" letter-spacing="1">PYTHON</text>
+<text x="157" y="325" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#8ce6d0" letter-spacing="1.5">WEB &amp; DESKTOP</text>
+<g transform="translate(706 198)">
+<ellipse rx="144" ry="112" fill="none" stroke="#9a82ee" stroke-opacity=".15" transform="rotate(-35)"/>
+<ellipse rx="154" ry="59" fill="none" stroke="url(#accent)" stroke-width="2" transform="rotate(-38)"/>
+<ellipse rx="147" ry="60" fill="none" stroke="url(#accent)" stroke-opacity=".55" transform="rotate(38)"/>
+<circle r="88" fill="#131424" stroke="#5b5182"/>
+<circle r="79" fill="none" stroke="#a38af3" stroke-opacity=".2"/>
+<text x="0" y="27" font-family="Arial,Helvetica,sans-serif" font-size="76" fill="#eee8ff" font-weight="700" text-anchor="middle" letter-spacing="-4">550</text>
+<circle cx="111" cy="-80" r="7" fill="#8eebcf"/>
+<circle cx="-116" cy="-69" r="4" fill="#be9cff"/>
+</g>
+<text x="44" y="405" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#a6a2be" letter-spacing="2.5">BUILD. LEARN. REFINE.</text>
+<text x="853" y="405" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#7e7995" text-anchor="end" letter-spacing="1.4">PERSONAL / DEV SPACE</text></svg>

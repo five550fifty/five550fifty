@@ -1,29 +1,35 @@
 <p align="center">
-  <img src="./banner.svg" alt="Artem Bardyuk — Python and Web Development" width="100%" />
+  <img src="./banner.svg" width="100%" alt="Artem Bardyuk — Python, web and desktop projects" />
 </p>
 
-### Hi, I'm Artem.
+<p align="center">
+  I build <b>Python applications</b> and <b>web projects</b>.<br />
+  Learning through practical tools, thoughtful interfaces and small experiments.
+</p>
 
-I build Python applications and web projects, from desktop budget tools to Flask websites. This is where I share what I'm building and learning along the way.
+<p align="center">
+  <a href="https://github.com/five550fifty?tab=repositories">Explore my code</a> &nbsp; · &nbsp;
+  <a href="mailto:Bardyuka@inbox.ru">Get in touch</a>
+</p>
 
-**Python apps · Web development · Learning by building**
+<br />
 
-### My toolkit
+### Selected work
 
-`Python` `Flask` `SQLite` `Tkinter` `Matplotlib` `HTML` `CSS` `JavaScript`
+<a href="https://github.com/five550fifty/portfolio_website"><img src="./project-portfolio.svg" width="100%" alt="Portfolio Website — responsive Flask website with a theme toggle and SQLite contact form" /></a>
 
-### Selected projects
+<a href="https://github.com/five550fifty/budget_tracker"><img src="./project-budget.svg" width="100%" alt="Budget Tracker — Python desktop app with income, expenses, savings goals and spending charts" /></a>
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[Portfolio Website](https://github.com/five550fifty/portfolio_website)** | A responsive personal website with a theme toggle and a contact form. | Flask, SQLite, HTML, CSS, JavaScript |
-| **[Budget Tracker](https://github.com/five550fifty/budget_tracker)** | A desktop app for income, expenses, savings goals and spending charts. | Python, Tkinter, Matplotlib |
-| **[High Score Manager](https://github.com/five550fifty/high-score-manager)** | A command-line leaderboard with player search and saved scores. | Python, file storage |
+<a href="https://github.com/five550fifty/high-score-manager"><img src="./project-scores.svg" width="100%" alt="High Score Manager — Python CLI leaderboard with player search and saved scores" /></a>
 
-### Around here
+<br />
 
-You'll find small, practical projects exploring user interfaces, data storage and everyday tools. Each one is a chance to turn an idea into something that works.
+### Tools I work with
 
----
+<img src="./toolkit.svg" width="100%" alt="Python, Flask, SQLite, Tkinter, Matplotlib, HTML, CSS and JavaScript" />
 
-**Let's connect** — [Email](mailto:Bardyuka@inbox.ru) · [Explore my repositories](https://github.com/five550fifty?tab=repositories)
+<br />
+
+<a href="mailto:Bardyuka@inbox.ru"><img src="./contact.svg" width="100%" alt="Let's connect — send Artem an email" /></a>
+
+<p align="center"><sub>Small ideas. Useful tools. Steady progress.</sub></p>
