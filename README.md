@@ -1,36 +1,25 @@
-<p align="center">
-  <img src="./hero.svg" width="100%" alt="Artem Bardyuk — Python, web and desktop projects" />
-</p>
+<img align="right" src="./knight.png" width="240" alt="A knight resting beneath a blue, star-filled sky" />
 
-<p align="center">
-  I build <b>Python applications</b> and <b>web projects</b>.<br />
-  Learning through practical tools, thoughtful interfaces and small experiments.
-</p>
+### hey, I'm Artem.
 
-<p align="center">
-  <a href="https://github.com/five550fifty?tab=repositories">Explore my code</a> &nbsp; · &nbsp;
-  <a href="mailto:Bardyuka@inbox.ru">Get in touch</a>
-</p>
+I write Python and build small web and desktop apps.
+Most of what you see here is me learning by making things.
 
-<br />
+Currently working with **Python, Flask and SQLite**, plus HTML, CSS and JavaScript for the web.
 
-### Selected work
+#### A few things I've built
 
-<a href="https://github.com/five550fifty/portfolio_website"><img src="./project-portfolio.svg" width="100%" alt="Portfolio Website — responsive Flask website with a theme toggle and SQLite contact form" /></a>
+[**Budget tracker**](https://github.com/five550fifty/budget_tracker)  
+A desktop app for tracking spending and saving goals, with charts to see where the money goes.
 
-<a href="https://github.com/five550fifty/budget_tracker"><img src="./project-budget.svg" width="100%" alt="Budget Tracker — Python desktop app with income, expenses, savings goals and spending charts" /></a>
+[**Portfolio website**](https://github.com/five550fifty/portfolio_website)  
+My Flask site, with light and dark themes and a contact form backed by SQLite.
 
-<a href="https://github.com/five550fifty/high-score-manager"><img src="./project-scores.svg" width="100%" alt="High Score Manager — Python CLI leaderboard with player search and saved scores" /></a>
+[**High score manager**](https://github.com/five550fifty/high-score-manager)  
+A Python CLI for keeping scores, finding players and updating a leaderboard.
 
-<br />
+<br clear="all" />
 
-### Tools I work with
+---
 
-<img src="./toolkit.svg" width="100%" alt="Python, Flask, SQLite, Tkinter, Matplotlib, HTML, CSS and JavaScript" />
-
-<br />
-
-<a href="mailto:Bardyuka@inbox.ru"><img src="./contact.svg" width="100%" alt="Let's connect — send Artem an email" /></a>
-
-<p align="center"><sub>Small ideas. Useful tools. Steady progress.</sub></p>
-
+[repos](https://github.com/five550fifty?tab=repositories) · [email](mailto:Bardyuka@inbox.ru)
