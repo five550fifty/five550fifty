@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Artem Bardyuk — Python, web and desktop projects" />
+  <img src="./hero.svg" width="100%" alt="Artem Bardyuk — Python, web and desktop projects" />
 </p>
 
 <p align="center">
@@ -33,3 +33,4 @@
 <a href="mailto:Bardyuka@inbox.ru"><img src="./contact.svg" width="100%" alt="Let's connect — send Artem an email" /></a>
 
 <p align="center"><sub>Small ideas. Useful tools. Steady progress.</sub></p>
+
