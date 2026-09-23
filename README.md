@@ -1,6 +1,6 @@
 <img align="right" src="./knight.png" width="240" alt="A knight resting beneath a blue, star-filled sky" />
 
-### hey, I'm Artem.
+### five550fifty
 
 I write Python and build small web and desktop apps.
 Most of what you see here is me learning by making things.
