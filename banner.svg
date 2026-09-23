@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Artem Bardyuk — Python and Web Development</title>
+  <desc id="desc">Dark graphite banner with lime accents, Artem's name and an abstract 550 monogram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#172127"/>
+      <stop offset="1" stop-color="#0b1118"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1280" height="360" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <circle cx="1130" cy="175" r="224" fill="none" stroke="#c4f46d" stroke-opacity="0.13"/>
+    <circle cx="1130" cy="175" r="175" fill="none" stroke="#c4f46d" stroke-opacity="0.1"/>
+    <circle cx="1130" cy="175" r="126" fill="none" stroke="#c4f46d" stroke-opacity="0.08"/>
+    <path d="M888 297L1173 12M994 360L1278 76" stroke="#c4f46d" stroke-opacity="0.12"/>
+    <rect x="56" y="49" width="8" height="8" rx="2" fill="#c4f46d"/>
+    <text x="78" y="60" font-family="Consolas, monospace" font-size="16" letter-spacing="3" fill="#c4f46d">FIVE550FIFTY</text>
+    <text x="54" y="161" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2" fill="#f2f5f1">Artem Bardyuk</text>
+    <text x="58" y="211" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#b9c4cd">Python &amp; Web Development</text>
+    <path d="M58 259H711" stroke="#344047"/>
+    <text x="58" y="299" font-family="Consolas, monospace" font-size="17" fill="#9faeb8">Small ideas. Useful tools. Steady progress.</text>
+    <g transform="translate(902 104)">
+      <rect width="277" height="143" rx="20" fill="#10191e" stroke="#334137"/>
+      <text x="138" y="102" text-anchor="middle" font-family="Consolas, monospace" font-size="102" font-weight="700" letter-spacing="-8" fill="#c4f46d">550</text>
+    </g>
+    <path d="M1170 290H1202M1186 274V306" stroke="#c4f46d" stroke-width="2"/>
+    <rect x="0" y="355" width="1280" height="5" fill="#c4f46d"/>
+  </g>
+</svg>
